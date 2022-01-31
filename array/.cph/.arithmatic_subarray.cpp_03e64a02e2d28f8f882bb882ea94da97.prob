@@ -1,1 +1,0 @@
-{"name":"Local: arithmatic_subarray","url":"/home/ranjeets/programming/cpp/functions/array/arithmatic_subarray.cpp","tests":[{"id":1641140928989,"input":"10\n10 7 4 6 8 1 1 1 1 1","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ranjeets/programming/cpp/functions/array/arithmatic_subarray.cpp","group":"local","local":true}

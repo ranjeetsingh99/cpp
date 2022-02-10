@@ -32,18 +32,19 @@ bool n_queen_problem(int** board , int col , int n) {
 
             board[i][col] = 0;
         }
-
+cout<<1<<" ";
 return false;
 }
 
 
 void print_board(int** board,int n){
+    cout<<endl<<endl;
     for(int i=0;i<n;i++){
         for(int j= 0;j<n;j++)
             if(board[i][j])
-                cout<<"Q ";
+                cout<<"Q|";
             else
-                cout<<". ";
+                cout<<" |";
         cout<<endl;
     }
 }
